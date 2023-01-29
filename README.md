@@ -1,8 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Boilerplate NextJS
+
+This repository gives a base with some automated checking code tools for potential errors, such as syntax errors, style issues, and logical bugs, format your code and force team developers to ensure that all developers work on the project using the same versions.
+
 ## Getting Started
 
-First, run the development server:
+First, install dependencies with yarn:
+
+```bash
+yarn install
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
